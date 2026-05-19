@@ -16,6 +16,7 @@ Identify health risks linked to smoking habits
 Compare cholesterol and hypertension levels among smokers
 Visualize smoking duration and cigarette intake trends
 Build an interactive healthcare analytics dashboard in Power BI
+
 Tools & Technologies Used
 Power BI
 Power Query
@@ -23,6 +24,7 @@ DAX
 Data Modeling
 Healthcare Dataset Analytics
 Data Visualization
+
 Key Metrics
 Total Patients
 Smoking Status Distribution
@@ -30,22 +32,26 @@ Smoking Duration
 Daily Cigarette Intake
 Cholesterol Risk Levels
 Hypertension Risk Analysis
+
 Key Insights
-Current smokers showed higher cholesterol and hypertension risk levels compared to former and non-smokers.
-Middle-aged groups recorded higher smoking duration averages.
-Male patients represented a larger percentage of current smokers.
-Health risk indicators increased with smoking frequency and duration.
-Former smokers still showed moderate health risks, suggesting long-term effects of smoking habits.
+-Current smokers showed higher cholesterol and hypertension risk levels compared to former and non-smokers.
+-Middle-aged groups recorded higher smoking duration averages.
+-Male patients represented a larger percentage of current smokers.
+-Health risk indicators increased with smoking frequency and duration.
+-Former smokers still showed moderate health risks, suggesting long-term effects of smoking habits.
+
 Features
 Interactive navigation panel
 Health condition toggles
 Dynamic visual filtering
 Healthcare-themed dashboard design
 Responsive analytical visuals
+
 Files Included
 Power BI Dashboard (.pbix)
 Dataset (.csv/.xlsx)
 Dashboard Screenshots
+
 README Documentation
 Author
 
